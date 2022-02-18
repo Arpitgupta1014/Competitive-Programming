@@ -15,7 +15,7 @@
 #define FOR(i, a, b) for (int i = a; i < b; i++)
 #define LOOP(i, a, b) for (int i = a; i <= b; i++)
 #define LOP(i, a, b, c) for (int i = a; i < b; i += c)
-#define BACKLOOP(i, a, b) for (int i = a; i >= b; i--)
+#define BACKLOOP(i, a, b) for (int i = a; i >= b; i--) 
 #define all(v) (v).begin(), (v).end()
 #define inp(a) cin >> a
 #define VI vector<int>
