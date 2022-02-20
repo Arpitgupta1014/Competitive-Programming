@@ -11,7 +11,6 @@ public:
                 }
             }
         }
-        
         return result;
     }
 };
