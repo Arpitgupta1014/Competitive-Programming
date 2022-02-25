@@ -22,6 +22,7 @@ int main(){
       break;
     }
   }
+  
   if(c==1){
     cout<<"YES";
   }
