@@ -7,6 +7,6 @@ public:
             else curr=nums[i];
             m=max(curr,m);
         }
-         return m;
+          return m;
     }
 };
