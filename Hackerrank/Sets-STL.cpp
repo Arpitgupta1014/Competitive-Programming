@@ -8,7 +8,7 @@ int main(){
     set<ll> st;
     while(t--){
         ll y,x;
-        cin>>y>>x;
+        cin>>y>>x; 
         if(y==1){
             st.insert(x);
         }
