@@ -12,7 +12,7 @@ class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
        if(list1==NULL){
-           return list2;
+            return list2;
        }
        else if(list2==NULL){
             return list1;
